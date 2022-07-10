@@ -1,0 +1,15 @@
+{
+  "template_sources": [
+    {
+      "name": "copier-nextjs",
+      "path": "../../home/runner/work/copier-nextjs/copier-nextjs/copier-nextjs",
+      "type": "copier",
+      "version": "7c4fad239a01ab643e35770a1a340e3d",
+      "git_url": null,
+      "target_version": null,
+      "render_relative_root_in_output": ".",
+      "render_relative_root_in_template": "output"
+    }
+  ],
+  "applied_templates": []
+}
