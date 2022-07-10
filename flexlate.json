@@ -15,10 +15,10 @@
     {
       "name": "copier-nextjs",
       "data": {
-        "author": "Nick DeRobertis",
-        "full_name": "Copier Next.js Example",
         "package_name": "copier-nextjs-example",
-        "short_description": "Example output for copier-nextjs"
+        "full_name": "Copier Next.js Example",
+        "short_description": "Example output for copier-nextjs",
+        "author": "Nick DeRobertis"
       },
       "version": "7c4fad239a01ab643e35770a1a340e3d",
       "add_mode": "local",
