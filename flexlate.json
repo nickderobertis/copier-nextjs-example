@@ -2,7 +2,7 @@
   "template_sources": [
     {
       "name": "copier-nextjs",
-      "path": "../../home/runner/work/copier-nextjs/copier-nextjs/copier-nextjs",
+      "path": "../copier-nextjs",
       "type": "copier",
       "version": "7c4fad239a01ab643e35770a1a340e3d",
       "git_url": null,
