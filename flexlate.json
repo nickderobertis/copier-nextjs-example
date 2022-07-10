@@ -4,7 +4,7 @@
       "name": "copier-nextjs",
       "path": "/home/runner/work/copier-nextjs/copier-nextjs/copier-nextjs",
       "type": "copier",
-      "version": "bafaf5f72359971f300d7c053d4492bf",
+      "version": "4417ab0753a29a941b0bbcb7cbbcb1fb",
       "git_url": null,
       "target_version": null,
       "render_relative_root_in_output": ".",
@@ -20,7 +20,7 @@
         "short_description": "Example output for copier-nextjs",
         "author": "Nick DeRobertis"
       },
-      "version": "bafaf5f72359971f300d7c053d4492bf",
+      "version": "4417ab0753a29a941b0bbcb7cbbcb1fb",
       "add_mode": "local",
       "root": "."
     }
